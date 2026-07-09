@@ -54,5 +54,5 @@ Here’s a quick view of the top data analyst roles from 2023, along with the sk
 - **Data Aggregation** 
 - **Analytical Skillset**
 
-# Closing Thoughts
+# Conclusion
 This project strengthened my SQL expertise and offered meaningful insights into the data analyst job market. The results help highlight which skills to prioritize for both career growth and job searching. By focusing on high‑demand, high‑salary skills, aspiring analysts can better position themselves in a competitive field. Overall, the analysis underscores the value of continuous learning and staying aligned with evolving trends in data analytics.
