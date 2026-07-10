@@ -12,7 +12,7 @@ SQL queries - check them out here:
  2. What skills are required for these top-paying jobs?
  3. What skills are most in demand for data analysts?
  4. Which skills are associated woth higher salaries?
- 5. What are the most optilam skills to learn?
+ 5. What are the most optimal skills to learn?
 
  # Tools I used
  - **SQL**: powered the core of my analysis, helping me dig into the database and uncover key insights.
